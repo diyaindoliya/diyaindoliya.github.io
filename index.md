@@ -1,4 +1,4 @@
-## hello!!
+# hello!!
 I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
 **Research Interests**
@@ -19,13 +19,13 @@ I can be found by email at alinasar [at] mit [dot] edu
 
 * * *
 
-## research
+# research
 
 hahahahhaha ??????
 
 * * *
 
-## art
+# art
 #### PNR Comics
 
 ![PNR Comics logo](/assets/pnr_logo_small.png)
