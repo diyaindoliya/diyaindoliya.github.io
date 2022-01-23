@@ -1,5 +1,5 @@
 # hello!!
-I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
+I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
 **Research Interests**
 - robust autonomy
@@ -7,21 +7,27 @@ I am a second year undergraduate student at MIT (2024). My major is Mechanical E
 - deep learning
 - space systems
 
-**Other Interests**
-- education and accessibility
+**Other Passions**
+- education accessibility
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
-more about me ~ I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
+more about me ~ I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
 
 ### contact me
-I can be found by email at alinasar [at] mit [dot] edu
+I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 
 * * *
 
 # research
 
-hahahahhaha ??????
+### currently
+
+**Learning Robotic Motion Planning Without 3D Models** ~ I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
+
+### previously
+
+**Venous Materials** ~ I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Worked on a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool (a Grasshopper3D plugin in Rhino) and prototyping different types of logic gate primitives.
 
 * * *
 
