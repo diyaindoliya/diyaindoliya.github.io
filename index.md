@@ -27,7 +27,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
     
     I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
     
-    Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, PyBullet, RViz
+    Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
 
 ### previously...
