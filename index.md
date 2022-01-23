@@ -4,6 +4,7 @@ I am a second year undergraduate student at MIT (2024). My major is Mechanical E
 **Research Interests**
 - robust autonomy
 - robotic manipulation and motion planning
+- loss of function robotics
 - deep learning
 - space systems
 
