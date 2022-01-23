@@ -1,5 +1,5 @@
-## hello hello
-I am a second year undergraduate student at MIT. My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. 
+## hello!!
+I am a second year undergraduate student at MIT. My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
 **Research Interests**
 - robust autonomy
