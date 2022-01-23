@@ -12,7 +12,7 @@ I am a second year undergraduate student at MIT (2024). My major is Mechanical E
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
-I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
+more about me ~ I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
 
 ### contact me
 I can be found by email at alinasar [at] mit [dot] edu
