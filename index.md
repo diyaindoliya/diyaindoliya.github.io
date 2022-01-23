@@ -25,4 +25,4 @@ hahahahhaha ??????
 
 I'm behind PNR Comics at *The Tech*, MIT's student-run newspaper. See my work [here](https://thetech.com/photographers/alina-sarmiento).
 
-![thumbnail for Carried zine](/assets/carried_thumbnail.jpg)
+![thumbnail for Carried zine](/assets/carried_thumbnail_small.jpg)
