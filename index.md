@@ -8,13 +8,12 @@ I am a second year undergraduate student at MIT. My major is Mechanical Engineer
 - space systems
 
 **Other Interests**
-- education
+- education and accessibility
 - housing and healthcare equity
-- diversity and inclusion
-- queer studies
+- queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
 ### contact me
-I can be found by emailing alinasar [at] mit [dot] edu
+I can be found by email at alinasar [at] mit [dot] edu
 
 ## research
 
