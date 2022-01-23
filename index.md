@@ -11,6 +11,5 @@ hahahahhaha ??????
 
 ## art
 <img src="/PNR_logo.png" alt="PNR Comics logo" width="400"/>
-
 I'm behind PNR Comics at *The Tech*, MIT's student-run newspaper. See my work [here](https://thetech.com/photographers/alina-sarmiento).
 
