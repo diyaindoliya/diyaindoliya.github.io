@@ -9,6 +9,6 @@ I can be found by emailing alinasar[at]mit[dot]edu
 hahahahhaha ??????
 
 ## art
-
+![PNR Comics logo](/pnr_logo.png)
 I'm behind PNR Comics at *The Tech*, MIT's student-run newspaper. See my work [here](https://thetech.com/photographers/alina-sarmiento).
 
