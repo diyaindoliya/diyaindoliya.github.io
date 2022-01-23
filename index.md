@@ -1,14 +1,14 @@
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
-### Research Interests
+### research interests
 - robust autonomy
 - robotic manipulation and motion planning
 - loss of function robotics
 - deep learning
 - space systems
 
-### Other Passions
+### other passions
 - education accessibility
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
