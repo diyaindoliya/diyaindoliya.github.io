@@ -23,12 +23,12 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 
 ### currently...
 
-**Learning Robotic Motion Planning Without 3D Models** ~ I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
+- **Learning Robotic Motion Planning Without 3D Models** ~ I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
 
 
 ### previously...
 
-**Venous Materials** ~ I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Worked on a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool (a Grasshopper3D plugin in Rhino) and prototyping different types of logic gate primitives.
+- **Venous Materials** ~ I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Worked on a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool (a Grasshopper3D plugin in Rhino) and prototyping different types of logic gate primitives.
 
 * * *
 
