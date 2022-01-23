@@ -1,14 +1,14 @@
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
-**Research Interests**
+### Research Interests
 - robust autonomy
 - robotic manipulation and motion planning
 - loss of function robotics
 - deep learning
 - space systems
 
-**Other Passions**
+### Other Passions
 - education accessibility
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
@@ -42,13 +42,13 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 * * *
 
 # art
-#### PNR Comics
+### PNR Comics
 
 ![PNR Comics logo](/assets/pnr_logo_small.png)
 
 I'm behind PNR Comics (Procrastinate, Nap, Repeat) at *The Tech*, MIT's student-run newspaper. Read the archive [here](https://thetech.com/photographers/alina-sarmiento). Ideas for a strip? Comments, thoughts, feedback? Email me at alinasar [at] mit [dot] edu !
 
-#### Carried - art/poetry zine
+### Carried - art/poetry zine
 
 ![thumbnail for Carried zine](/assets/carried_thumbnail_small.jpg)
 
