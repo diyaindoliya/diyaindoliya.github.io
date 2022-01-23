@@ -17,9 +17,13 @@ more about me ~ I come from Newark, California in the SF Bay Area. My pronouns a
 ### contact me
 I can be found by email at alinasar [at] mit [dot] edu
 
+* * *
+
 ## research
 
 hahahahhaha ??????
+
+* * *
 
 ## art
 #### PNR Comics
