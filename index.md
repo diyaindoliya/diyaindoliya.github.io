@@ -1,5 +1,5 @@
 ## hello!!
-I am a second year undergraduate student at MIT. My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
+I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
 **Research Interests**
 - robust autonomy
@@ -11,6 +11,8 @@ I am a second year undergraduate student at MIT. My major is Mechanical Engineer
 - education and accessibility
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
+
+I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
 
 ### contact me
 I can be found by email at alinasar [at] mit [dot] edu
