@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/alinasarmiento/alinasarmie
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### hello hello
+I am a second year undergraduate student at MIT. My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm minoring in astronomy. Engineering wise, I'm interested in robust autonomous robotics, deep learning, and space systems. I also have interests in education, housing and healthcare equity, diversity and inclusion, and queer studies.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
