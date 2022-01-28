@@ -23,10 +23,12 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 # research
 
 ### currently...
-
+![Illustration of robot demo](/assets/clutter_demo.png)
 - **Learning Robotic Motion Planning Without 3D Models** ~ _Improbable AI Group (MIT CSAIL)_
     
     I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
+    
+    Current questions: Can we take motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
     
     Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
