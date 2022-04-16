@@ -1,10 +1,11 @@
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
-I am a second year undergraduate student at MIT (2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in astronomy. Currently an undergraduate researcher (UROP) with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
+I am a second year undergraduate student at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergraduate researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
 
 ### research interests
 - robust autonomy
 - robotic manipulation and motion planning
 - loss of function robotics
+- mechanical design
 - deep learning
 - space systems
 
@@ -28,7 +29,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
     
     I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
     
-    Current questions: Can we take motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
+    Current questions: Can we take task/motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
     
     Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
