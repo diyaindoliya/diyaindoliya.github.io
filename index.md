@@ -29,7 +29,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 ![Illustration of robot demo](/assets/clutter_demo.png)
 - **Learning Robotic Motion Planning Without 3D Models** ~ _Improbable AI Group (MIT CSAIL)_
     
-    I'm working with Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
+    I'm collaborating with Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
     
     Current questions: Can we take task/motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
     
@@ -39,7 +39,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 
 - **Computational Design of Fluidic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
     
-    I'm assisting Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
+    I'm working with Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
     
     Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
 
@@ -47,7 +47,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 
 - **Venous Materials** ~ _Tangible Media Group (MIT Media Lab)_
     
-    I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Helped develop a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool and prototyping different types of logic gate primitives.
+    I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Prototyped a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool and prototyping different types of logic gate primitives.
     
     Used: Grasshopper3D, Rhino
 
