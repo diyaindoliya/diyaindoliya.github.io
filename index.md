@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
-I am a rising junior at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab] (https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
+I am a rising junior at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
 
 ### research interests
 - robust autonomy
