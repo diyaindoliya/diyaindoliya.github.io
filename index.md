@@ -35,7 +35,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
     
     Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
-<img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='400'>
+<img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
 
 - **Computational Design of Fluidic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
     
