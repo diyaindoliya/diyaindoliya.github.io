@@ -41,7 +41,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
     
     I'm assisting Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
     
-    Using: Grasshopper, Rhino, Rhinoscript, basic electronics
+    Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
 
 ### previously...
 
