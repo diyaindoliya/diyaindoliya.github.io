@@ -35,7 +35,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
     
     Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
-![Screenshot of Rhino HSA](/assets/hsa_screencap.png)
+![Screenshot of Rhino HSA](/assets/hsa_screencap.jpg)
 - **Computational Design of Fluidic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
     
     I'm assisting Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
