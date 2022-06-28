@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
-I am a rising third year undergraduate student at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) at MIT CSAIL.
+I am a rising junior at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab] (https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
 
 ### research interests
 - robust autonomy
@@ -29,16 +29,22 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 ![Illustration of robot demo](/assets/clutter_demo.png)
 - **Learning Robotic Motion Planning Without 3D Models** ~ _Improbable AI Group (MIT CSAIL)_
     
-    I'm assisting Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
+    I'm working with Anthony Simeonov in exploring robotic grasp generation given 3D point clouds of novel/unseen objects and cluttered scenes. 
     
     Current questions: Can we take task/motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
     
     Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
 
+![Screenshot of Rhino HSA](/assets/hsa_screencap.png)
+- **Computational Design of Fluidic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
+    
+    I'm assisting Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
+    
+    Using: Grasshopper, Rhino, Rhinoscript, basic electronics
 
 ### previously...
 
-- **Venous Materials** ~ _MIT Media Lab_
+- **Venous Materials** ~ _Tangible Media Group (MIT Media Lab)_
     
     I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Helped develop a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool and prototyping different types of logic gate primitives.
     
