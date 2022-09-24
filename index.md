@@ -73,8 +73,8 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 - 18.03 Differential Equations - Jorn Dunkel
 - 18.06 Linear Algebra - Steven Johnson
 - 18.062J/6.042 Mathematics for Computer Science - Tom Leighton, Ankur Moitra
-* * *
 
+* * *
 # art
 ### PNR Comics
 
