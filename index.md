@@ -3,13 +3,16 @@
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
 I am a rising junior at MIT (class of 2024). My major is Mechanical Engineering with a focus in Learning Machines and Physical Systems, and I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
 
+**I believe that robotics is a constant interaction between the body (mechanisms, design) and the mind (control schemes, planners, deep learning). I'm most interested in mechanics and software co-design: how do we let these two things inform each other?**
+
 ### research interests
 - robust autonomy
 - robotic manipulation and motion planning
 - loss of function robotics
 - mechanical design
 - deep learning
-- space systems
+- space systems applications
+- emergency response applications
 
 ### other passions
 - education accessibility
@@ -27,7 +30,7 @@ I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
 
 ### currently...
 ![Illustration of robot demo](/assets/clutter_demo.png)
-- **Learning Robotic Motion Planning Without 3D Models** ~ _Improbable AI Group (MIT CSAIL)_
+- **Task-Informed Robotic Manipulation** ~ _Improbable AI Group (MIT CSAIL)_
     
     I'm collaborating with Anthony Simeonov to explore robotic manipulation of novel, cluttered objects conditioned on manipulation task. In the way that you wouldn't grab a mug by its rim if you wanted to flip it upside down, we want to generate grasps that depend on what the robot intends to do with an object.
     
