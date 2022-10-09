@@ -2,7 +2,7 @@
 I am a third-year undergraduate at MIT in Course 2-A, the flexible mechanical engineering track, with a focus in Learning Machines and Physical Systems and a minor in math.
 
 # projects
-- Check out my team's [lab projects](https://rss2022-14.github.io/website/labs/) for 6.141: Robotics Science and Systems.
+Check out my team's [lab projects](https://rss2022-14.github.io/website/labs/) for 6.141: Robotics Science and Systems.
 
 # relevant coursework
 ### Mechanical Engineering (MIT Course 2)

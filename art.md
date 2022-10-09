@@ -4,12 +4,6 @@ I like to dabble in lots of different art mediums, from paint to poetry to puppe
 
 * * *
 
-### PNR Comics
-
-![PNR Comics logo](/assets/pnr_logo_small.png)
-
-I'm behind PNR Comics (Procrastinate, Nap, Repeat) at *The Tech*, MIT's student-run newspaper. Read the archive [here](https://thetech.com/photographers/alina-sarmiento). Ideas for a strip? Comments, thoughts, feedback? Email me at alinasar [at] mit [dot] edu !
-
 ### Carried - art/poetry zine
 
 ![thumbnail for Carried zine](/assets/carried_thumbnail_small.jpg)
@@ -19,3 +13,10 @@ Recently, I also made a zine! Inspired by the experiences of my family and other
 - physical copies are sold at [my Gumroad](https://indoorelephant.gumroad.com/l/carried) 
 - I wrote a MIT Admissions guest blog post about it [here](https://mitadmissions.org/blogs/entry/guest-post-art-and-things/)
 - and finally, it was a winner of the 2021 MICE Mini-Grant! See the other winning comics [here](https://www.micexpo.org/showcase/#showcase)
+
+### PNR Comics
+
+![PNR Comics logo](/assets/pnr_logo_small.png)
+
+I'm behind PNR Comics (Procrastinate, Nap, Repeat) at *The Tech*, MIT's student-run newspaper. Read the archive [here](https://thetech.com/photographers/alina-sarmiento). Ideas for a strip? Comments, thoughts, feedback? Email me at alinasar [at] mit [dot] edu !
+
