@@ -1,4 +1,10 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+# in class
+I am a third-year undergraduate at MIT in Course 2-A, the flexible mechanical engineering track, with a focus in Learning Machines and Physical Systems and a minor in math.
+
+# projects
+- Check out my team's [lab projects](https://rss2022-14.github.io/website/labs/) for 6.141: Robotics Science and Systems.
+
 # relevant coursework
 ### Mechanical Engineering (MIT Course 2)
 - 2.671 Measurement and Instrumentation - Barbara Hughey, John Leonard, Peter So
@@ -17,3 +23,8 @@
 - 18.03 Differential Equations - Jorn Dunkel
 - 18.06 Linear Algebra - Steven Johnson
 - 18.062J/6.042 Mathematics for Computer Science - Tom Leighton, Ankur Moitra
+
+### Global Languages (MIT Course 21G)
+- 21G.501 Japanese I
+- 21G.502 Japanese II
+- 21G.503 Japanese III

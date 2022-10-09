@@ -1,8 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# research
-
-### currently...
+# currently...
 ![Illustration of robot demo](/assets/clutter_demo.png)
 - **Task-Informed Robotic Manipulation** ~ _Improbable AI Group (MIT CSAIL)_
     
@@ -20,7 +18,7 @@
     
     Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
 
-### previously...
+# previously...
 
 - **Venous Materials** ~ _Tangible Media Group (MIT Media Lab)_
     

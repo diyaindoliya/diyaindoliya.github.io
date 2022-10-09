@@ -1,5 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # art
+I like to dabble in lots of different art mediums, from paint to poetry to puppets! Some of my casual work can be seen on my art instagram [@indoorelephant](https://instagram.com/indoorelephant)
+
+* * *
+
 ### PNR Comics
 
 ![PNR Comics logo](/assets/pnr_logo_small.png)
