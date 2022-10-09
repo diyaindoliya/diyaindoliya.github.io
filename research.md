@@ -12,7 +12,7 @@
 
 <img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
 
-- **Computational Design of Fluidic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
+- **Computational Design of Soft Robotic Sensors** ~ _Distributed Robotics Lab (MIT CSAIL)_
     
     I'm working with Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
     
