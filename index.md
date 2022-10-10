@@ -1,6 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # [hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc)
+
+<img style="float: right;" src='assets/IMG_8177.jpg' alt='headshot' width='300'/>
+
 I am a junior at MIT (class of 2024) studying Mechanical Engineering with a focus in Learning Machines and Physical Systems. I'm also minoring in math. Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
 
 **I believe that robotics is a constant interaction between the body (mechanisms, design) and the mind (control schemes, planners, deep learning). I'm most interested in mechanics and software co-design: how do we let these two things inform each other?**
