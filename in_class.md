@@ -5,7 +5,10 @@ I am a third-year undergraduate at MIT in Course 2-A, the flexible mechanical en
 ### 2.671 Measurement and Instrumentation
 I made a bunch of people lift pringle cans and characterized their motor responses as affected by memory and cognition.
 
-Paper and poster imminent! Stay tuned...
+Final project poster:
+<iframe src="/assets/T_22_Sarmiento_GripFroce.pdf"></iframe>
+
+Paper imminent! Stay tuned...
 
 ### 6.843/4212 Robotic Manipulation
 "One Trip" - Full-arm, bimanual manipulation using geometric grasping methods
