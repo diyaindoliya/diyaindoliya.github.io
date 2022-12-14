@@ -25,4 +25,4 @@ I believe that robotics is a constant interaction between the body (mechanisms, 
 more about me ~ I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. My pronouns are they/all. I am a serial sock mismatcher.
 
 ### contact me
-I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
+If your carrier pigeon is on holiday, I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
