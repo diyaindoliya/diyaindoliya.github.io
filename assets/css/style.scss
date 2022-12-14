@@ -35,12 +35,12 @@ section {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
-  color: #267CB9;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  float: right;
+  color:#267CB9;
+  margin:0 0 20px;
+  line-height:1.1;
+  font-size:28px;
+  font-weight: 500;
 }
 
 /* Change the color of links on hover */
