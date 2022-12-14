@@ -35,23 +35,30 @@ section {
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav a b{
   float: right;
   text-align: center;
   padding: 10px 10px;
-  padding-right: 100px;
   color:#267CB9;
   line-height:1.1;
   font-size:28px;
   font-weight: 500;
 }
 
+.topnav a {
+  padding-right: 50px;
+}
+
+.topnav b {
+  padding-right: 50px;
+}
+
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav a:hover b:hover {
   color: #777;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.topnav a.active b:hover {
   color: #777;
 }
