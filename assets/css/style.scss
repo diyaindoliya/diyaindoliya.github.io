@@ -28,7 +28,7 @@ section {
 .topnav {
   color:#267CB9;
   overflow: hidden;
-  margin:0 0 20px;
+  margin:0px;
   line-height:1.1;
   font-size:28px;
   font-weight: 500;
@@ -38,9 +38,9 @@ section {
 .topnav a {
   float: right;
   text-align: center;
-  padding: 14px 10px;
+  padding: 14px 16px;
+  margin-right: 100px;
   color:#267CB9;
-  margin:0 0 20px;
   line-height:1.1;
   font-size:28px;
   font-weight: 500;
