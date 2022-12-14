@@ -8,7 +8,7 @@ I am a junior at MIT (class of 2024) studying Mechanical Engineering with a focu
 
 I believe that robotics is a constant interaction between the body (mechanisms, design) and the mind (control schemes, planners, deep learning). I'm most interested in mechanics and software co-design: how do we let these two things inform each other?
 
-### engineering interests
+## engineering/research interests
 - robust autonomy
 - robotic manipulation and motion planning
 - loss of function robotics
@@ -17,7 +17,7 @@ I believe that robotics is a constant interaction between the body (mechanisms, 
 - space systems applications
 - emergency response applications
 
-### other passions
+## other passions
 - education accessibility
 - housing and healthcare equity
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
