@@ -4,6 +4,7 @@
 @import "jekyll-theme-minimal";
 body {
   background-color: #fff;
+  width: 50%
   padding:50px;
   font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -29,7 +30,7 @@ section {
   color:#267CB9;
   overflow: hidden;
   margin:0px;
-  margin-right: 100px;
+  margin-right: 5%;
   line-height:1.1;
   font-size:28px;
   font-weight: 500;
