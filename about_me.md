@@ -19,7 +19,7 @@ I am a junior at UCLA (class of 2024) studying Cognitive Science with a speciali
 - pinterest content creation! ([see my pinterest here!](https://www.pinterest.com/quesuhdiya/))
 - music (especially live music)!
 
-I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid enthusiast of Taylor Swift's songwriting (folklore and red are my favorite albums of all time)!
+I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid enthusiast of Taylor Swift's songwriting (folklore and Red are my favorite albums of all time)!
 
 
 # contact me
