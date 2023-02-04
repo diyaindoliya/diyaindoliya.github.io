@@ -1,7 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <br>
 <br>
-I am a third-year undergraduate at MIT in Course 2-A, the flexible mechanical engineering track, with a focus in Learning Machines and Physical Systems and a minor in math.
 
 # projects
 ### 2.671 Measurement and Instrumentation
