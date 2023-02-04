@@ -10,6 +10,6 @@ I'm Grey! I'm an undergrad in mechanical engineering + robotics at MIT. Currentl
 
 ## the latest
 
-#### 🚀&emsp; Will be interning with the SpaceX Dragon Team in Hawthorne this summer, working on flight mechanisms!
+#### 🚀&emsp; Joining SpaceX's Dragon Team in Hawthorne this summer as a flight mechanism intern
 
-#### 🔧&emsp; Thanks to ProjX funding, my friends and I are creating a life-size WALL-E robot in the next few months. Stay tuned...
+#### 🔧&emsp; Thanks to ProjX funding, my friends and I are creating a life-sized WALL-E robot. Stay tuned...
