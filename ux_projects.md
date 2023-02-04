@@ -1,9 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # currently...
-![Illustration of robot demo](/assets/clutter_demo.png)
+![Rivet landing page](/assets/rivetlandingpage.png)
 
-### Task-Informed Robotic Manipulation ~ _Improbable AI Group (MIT CSAIL)_
+### User Experience Research and Design ~ Rivet App
     
 I'm collaborating with Anthony Simeonov to explore robotic manipulation of novel, cluttered objects conditioned on manipulation task. In the way that you wouldn't grab a mug by its rim if you wanted to flip it upside down, we want to generate grasps that depend on what the robot intends to do with an object.
     
