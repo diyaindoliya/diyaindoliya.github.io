@@ -2,28 +2,25 @@
 
 # about me
 
-I am a junior at MIT (class of 2024) studying Mechanical Engineering with a focus in Learning Machines and Physical Systems. I'm also minoring in math.[^1] Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
+I am a junior at UCLA (class of 2024) studying Cognitive Science with a specialization in computing and a minor in statistics. Currently, I am a UX/UI designer for [Rivet](https://www.rivet.app/), an MIT-based startup dedicated to helping artists connect with their fans. I'm also a designer for [LA Blueprint](https://lablueprint.org/), a student-run organization striving to make technology accessible to underprivileged communities and promote public welfare.
 
-I believe that robotics is a constant interaction between the body (mechanisms, design) and the mind (control schemes, planners, deep learning). I'm most interested in mechanics and software co-design: how do we let these two things inform each other?
 
-[^1]: in MIT-speak, i'm Course 2-A/LMPS (similar to 2-A/6), 18 minor, concentration in WGS. phew!
+## research interests
+- interaction design, including user interfaces and experience design
+- user psychology and behavior in relation to technology / digital products
+- emerging technologies (such as AI and voice-to-text) and their impact on UX/UI design
+- accessibility and inclusive design.
+- mobile and responsive design.
+- design trends and their impact on user experience.
 
-## engineering/research interests
-- robust autonomy
-- adapting to loss of mechanical function
-- robotic manipulation and motion planning
-- mechanical design
-- deep learning
-- applications: space systems, assistive care, emergency response
 
 ## other passions
-- education accessibility
-- housing and healthcare equity
-- environmental justice and sustainability
-- queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
+- writing! [read some of the articles I've written for the Daily Bruin here!](https://dailybruin.com/author/diya-indoliya)
+- pinterest content creation! [see my pinterest here!](https://www.pinterest.com/quesuhdiya/)
+- music (especially live music)!
 
-I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. I'm okay with any pronouns, but tend to go by they/them. I am a serial sock mismatcher.
+I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid enthusiast of Taylor Swift's songwriting (folklore and red are my favorite albums of all time)!
 
 
 # contact me
-If your carrier pigeon is on holiday, I can be found by email at alinasar [at] mit [dot] edu. Come say hi!
+I can be found by email at diyaindo [at] ucla [dot] edu. Come say hi!
