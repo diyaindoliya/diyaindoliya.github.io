@@ -5,8 +5,6 @@
 ### User Experience Research and Design ~ Rivet App
 
 ![Rivet landing page](/assets/rivetlandingpage.png)
-
-### User Experience Research and Design ~ Rivet App
     
 I'm collaborating with Anthony Simeonov to explore robotic manipulation of novel, cluttered objects conditioned on manipulation task. In the way that you wouldn't grab a mug by its rim if you wanted to flip it upside down, we want to generate grasps that depend on what the robot intends to do with an object.
     
