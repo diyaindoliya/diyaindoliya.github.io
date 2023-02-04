@@ -17,7 +17,7 @@ I believe that robotics is a constant interaction between the body (mechanisms, 
 ## other passions
 - education accessibility
 - housing and healthcare equity
-- sustainability and the environment
+- environmental justice and sustainability
 - queer studies ([see my current reading list](https://bpl.bibliocommons.com/list/share/1900259209_alinasarmiento/1900265989_queer_literature))
 
 I currently live in Cambridge, Massachusetts but I come from Newark, California in the SF Bay Area. I'm okay with any pronouns, but tend to go by they/them. I am a serial sock mismatcher.
