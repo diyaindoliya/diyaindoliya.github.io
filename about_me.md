@@ -5,6 +5,7 @@
 I am a junior at MIT (class of 2024) studying Mechanical Engineering with a focus in Learning Machines and Physical Systems. I'm also minoring in math.[^1] Currently an undergrad researcher (UROP) under Pulkit Agrawal with the [Improbable AI Group](https://people.csail.mit.edu/pulkitag/) and under Daniela Rus with the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory) at MIT CSAIL.
 
 I believe that robotics is a constant interaction between the body (mechanisms, design) and the mind (control schemes, planners, deep learning). I'm most interested in mechanics and software co-design: how do we let these two things inform each other?
+
 [^1]: in MIT-speak, i'm Course 2-A/LMPS (similar to 2-A/6), 18 minor, concentration in WGS. phew!
 
 ## engineering/research interests
