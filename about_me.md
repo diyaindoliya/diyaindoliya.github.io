@@ -8,12 +8,11 @@ I believe that robotics is a constant interaction between the body (mechanisms, 
 
 ## engineering/research interests
 - robust autonomy
+- adapting to loss of mechanical function
 - robotic manipulation and motion planning
-- loss of function robotics
 - mechanical design
 - deep learning
-- space systems applications
-- emergency response applications
+- applications: space systems, assistive care, emergency response
 
 ## other passions
 - education accessibility
