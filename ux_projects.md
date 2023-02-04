@@ -1,6 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # currently...
+
+### User Experience Research and Design ~ Rivet App
+
 ![Rivet landing page](/assets/rivetlandingpage.png)
 
 ### User Experience Research and Design ~ Rivet App
