@@ -2,7 +2,7 @@
 
 # about me
 
-I am a junior at UCLA (class of 2024) studying Cognitive Science with a specialization in computing and a minor in statistics. Currently, I am a UX/UI designer for [Rivet](https://www.rivet.app/), an MIT-based startup dedicated to helping artists connect with their fans. I'm also a designer for [LA Blueprint](https://lablueprint.org/), a student-run organization striving to make technology accessible to underprivileged communities and promote public welfare.
+I am a junior at UCLA (class of 2024) studying Cognitive Science with a specialization in Computing and a minor in Statistics. Currently, I am a UX/UI designer for [Rivet](https://www.rivet.app/), an MIT-based startup dedicated to helping artists connect with their fans. I'm also a designer for [LA Blueprint](https://lablueprint.org/), a student-run organization striving to make technology accessible to underprivileged communities and promote public welfare.
 
 
 ## research interests
