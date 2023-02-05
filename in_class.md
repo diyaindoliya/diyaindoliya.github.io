@@ -6,14 +6,17 @@
 ### GEOG 5HC ~ Sustainable Environmental Design in Green Roofs
 I researched and designed a green roof that could feasibly be implemented at UCLA!
 
-<img src='assets/hsa_screencap.jpg' alt='Green Roof Full' width='300'>
+<img src='assets/greenroofs1.jpg' alt='Green Roof Full' width='200'>
+<img src='assets/greenroofs2.jpg' alt='Green Roof Cut' width='200'>
 
 Check out the full paper I wrote for this project [here](https://drive.google.com/file/d/19DwKa4WBqSAEJacNKw317isk-yTlM7Dy/view?usp=sharing).
 
-### 6.843/4212 Robotic Manipulation
-"One Trip" - Full-arm, bimanual manipulation using geometric grasping methods
+### BearWear Landing Page
+I designed a landing page for a hypothetical UCLA apparel shop called BearWear as part of an application!
 
-Stay tuned for the Drake demo!
+<img src='assets/greenroofs1.jpg' alt='BearWear Landing Page' width='400'>
+
+This ended up being a super fun creative project for me to dive deeper into my own design preferences starting from scratch.
 
 ### 6.141 Robotics: Science and Systems
 Check out my team's [lab projects](https://rss2022-14.github.io/website/labs/) for 6.141: Robotics Science and Systems.
