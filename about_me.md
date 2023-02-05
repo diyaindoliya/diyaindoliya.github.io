@@ -16,10 +16,11 @@ I am a junior at UCLA (class of 2024) studying Cognitive Science with a speciali
 
 ## other passions
 - writing! ([read some of the articles I've written for the Daily Bruin here!](https://dailybruin.com/author/diya-indoliya))
-- pinterest content creation! ([see my pinterest here!](https://www.pinterest.com/quesuhdiya/))
+- environmentalism & sustainability
 - music (especially live music)!
+- pinterest content creation! ([see my pinterest here!](https://www.pinterest.com/quesuhdiya/))
 
-I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid enthusiast of Taylor Swift's songwriting (folklore and Red are my favorite albums of all time)!
+I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid lover of Taylor Swift's songwriting (folklore and Red are my favorite albums of all time)!
 
 
 # contact me!
