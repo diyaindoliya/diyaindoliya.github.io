@@ -2,28 +2,20 @@
 
 # currently...
 
-### User Experience Research and Design ~ Rivet App
+### RIVET APP ~ User Experience and Interface Design
 
 ![Rivet landing page](/assets/rivetlandingpage.png)
     
-I'm collaborating with Anthony Simeonov to explore robotic manipulation of novel, cluttered objects conditioned on manipulation task. In the way that you wouldn't grab a mug by its rim if you wanted to flip it upside down, we want to generate grasps that depend on what the robot intends to do with an object.
+I'm working with Rivet, an MIT-based startup, to create an optimal platform for artists to monetize their content build connections with their top fans. 
     
-Current questions: Can we take task/motion planning into account when generating grasps? What are ways to allow for subgoal search given an ultimate goal and potentially unfavorable initial object configurations?
-    
-Using: PyTorch, ROS, PointNet++ architecture, GraspNet architecture, CVAEs, Docker, PyBullet, RViz
+Using: Figma, Canva, WebFlow, Notion
 
-<img src='assets/hsa_screencap.jpg' alt='Screenshot of HSA' width='300'>
 
-### Computational Design of Soft Robotic Sensors ~ _Distributed Robotics Lab (MIT CSAIL)_
-    
-I'm working with Lilly Chin to create computational design tools and pipelines for fluidic and tactile sensor prototyping. We're focusing on adding sensor capability to her work on handed shearing auxetics (HSAs), as well as iterating on the team's tactile sensors for soft robotic grasping.
 
-Using: Grasshopper, Rhino, Rhinoscript, Carbon3D printer, basic electronics
+### LA BLUEPRINT ~ Mobile App User Experience Research and Design
 
-# previously...
+<img src='assets/sraalofiexample.png' alt='Screenshot of LoFi Designs' width='300'>
 
-### Venous Materials ~ _Tangible Media Group (MIT Media Lab)_
-    
-I worked with postdoctoral student Hila Mor and faculty advisor Hiroshi Ishii to help develop a more user intuitive interface for Venous Materials: physical fluidic circuits and veins as pressure and deformation sensors. Prototyped a method to print the designs using a novel type of nonplanar 3D printing, as well as streamlining the user interface of the design tool and prototyping different types of logic gate primitives.
+I'm working with LA Blueprint and Skid Row Arts Alliance to design an easily accessible mobile app to help residents of Skid Row find art workshops and resources, share their art, and foster a tightly-knit art community.
 
-Used: Grasshopper3D, Rhino
+Using: Figma, FigJam, Notion
