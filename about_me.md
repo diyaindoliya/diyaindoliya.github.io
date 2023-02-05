@@ -9,9 +9,9 @@ I am a junior at UCLA (class of 2024) studying Cognitive Science with a speciali
 - interaction design, including user interfaces and experience design
 - user psychology and behavior in relation to technology / digital products
 - emerging technologies (such as AI and voice-to-text) and their impact on UX/UI design
-- accessibility and inclusive design.
-- mobile and responsive design.
-- design trends and their impact on user experience.
+- accessibility and inclusive design
+- mobile and responsive design
+- design trends and their impact on user experience
 
 
 ## other passions
