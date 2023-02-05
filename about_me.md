@@ -22,5 +22,5 @@ I am a junior at UCLA (class of 2024) studying Cognitive Science with a speciali
 I currently live in Los Angeles, but I come from Newark, California in the SF Bay Area. My pronouns are she/her. I am an avid enthusiast of Taylor Swift's songwriting (folklore and Red are my favorite albums of all time)!
 
 
-# contact me
+# contact me!
 I can be found by email at diyaindo [at] ucla [dot] edu. Come say hi!
