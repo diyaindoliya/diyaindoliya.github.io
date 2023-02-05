@@ -1,6 +1,4 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<br>
-<br>
 
 # projects
 ### GEOG 5HC ~ Sustainable Environmental Design: An Exploration of Green Roofs
