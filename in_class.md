@@ -3,13 +3,12 @@
 <br>
 
 # projects
-### 2.671 Measurement and Instrumentation
-I made a bunch of people lift pringle cans and characterized their motor responses as affected by memory and cognition.
+### GEOG 5HC ~ Sustainable Environmental Design in Green Roofs
+I researched and designed a green roof that could feasibly be implemented at UCLA!
 
-Final project poster:
-<iframe src="/assets/T_22_Sarmiento_GripFroce.pdf"></iframe>
+<img src='assets/hsa_screencap.jpg' alt='Green Roof Full' width='300'>
 
-Paper imminent! Stay tuned...
+Check out the full paper I wrote for this project [here](https://drive.google.com/file/d/19DwKa4WBqSAEJacNKw317isk-yTlM7Dy/view?usp=sharing).
 
 ### 6.843/4212 Robotic Manipulation
 "One Trip" - Full-arm, bimanual manipulation using geometric grasping methods
