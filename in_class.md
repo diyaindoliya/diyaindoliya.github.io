@@ -3,7 +3,7 @@
 <br>
 
 # projects
-### GEOG 5HC ~ Sustainable Environmental Design in Green Roofs
+### GEOG 5HC ~ Sustainable Environmental Design: An Exploration of Green Roofs
 I researched and designed a green roof that could feasibly be implemented at UCLA!
 
 <img src='assets/greenroofs1.png' alt='Green Roof Full' width='200'>
@@ -11,7 +11,7 @@ I researched and designed a green roof that could feasibly be implemented at UCL
 
 Check out the full paper I wrote for this project [here](https://drive.google.com/file/d/19DwKa4WBqSAEJacNKw317isk-yTlM7Dy/view?usp=sharing).
 
-### BearWear Landing Page
+### CREATIVE CHALLENGE ~ BearWear Landing Page
 I designed a landing page for a hypothetical UCLA apparel shop called BearWear as part of an application!
 
 <img src='assets/BearWearLandingPage.png' alt='BearWear Landing Page' width='400'>
