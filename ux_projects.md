@@ -23,6 +23,6 @@ Using: Figma, FigJam, Notion
 
 # up next...
 
-### FIGMA ~ REDESIGNING THE BRACKET PROJECT
+### FIGMA ~ Redesigning the Bracket Project
 
 I'm working with Figma for Education to create a redesigned March Madness template! More details to come.
