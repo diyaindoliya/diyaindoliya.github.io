@@ -19,3 +19,10 @@ Using: Figma, Canva, WebFlow, Notion
 I'm working with LA Blueprint and [Skid Row Arts Alliance](https://www.skidrowartsalliance.com/) to design an easily accessible mobile app to help residents of Skid Row find art workshops and resources, share their art, and foster a tightly-knit art community.
 
 Using: Figma, FigJam, Notion
+
+
+# up next...
+
+### FIGMA ~ REDESIGNING THE BRACKET PROJECT
+
+I'm working with Figma for Education to create a redesigned March Madness template! More details to come.
