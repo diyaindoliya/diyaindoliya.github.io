@@ -2,6 +2,7 @@
 
 # hi, i'm diya!
 
+<img src='assets/snoopydrawinf.png' alt='snoopy drawing' width='300'/>
 
 I'm an undergrad at UCLA studying Cognitive Science with a specialization in Computing and a minor in Statistics. 
 
