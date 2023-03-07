@@ -17,8 +17,8 @@ Using: Figma, Canva, WebFlow, Notion
 
 ### LA BLUEPRINT ~ Mobile App User Experience Research and Design
 <div class="image-grid">
-  <img src="assets/sraalofiexample.png" width = 500>
-  <img src="assets/sraauserpersonas.png" width = 500>
+  <img src="assets/sraalofiexample.png" width = 300>
+  <img src="assets/sraauserpersonas.png" width = 300>
 </div>
 
 I'm working with LA Blueprint and [Skid Row Arts Alliance](https://www.skidrowartsalliance.com/) to design an easily accessible mobile app to help residents of Skid Row find art workshops and resources, share their art, and foster a tightly-knit art community.
