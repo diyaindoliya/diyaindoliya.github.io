@@ -9,7 +9,7 @@
   <img src="assets/fanspage.png" width = 500>
 </div>
     
-I'm working with Rivet, an MIT-based startup, to create an optimal platform for artists to monetize their content and build connections with their top fans. 
+I'm working with [Rivet](https://www.rivet.app/), an MIT-based startup, to create an optimal platform for artists to monetize their content and build connections with their top fans. 
     
 Using: Figma, Canva, WebFlow, Notion
 
