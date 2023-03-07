@@ -2,7 +2,7 @@
 
 # hi, i'm diya!
 
-<img src='assets/snoopydrawing.png' alt='snoopy drawing' width='300'/>
+<img src='assets/snoopydrawing.png' alt='snoopy drawing' width='200'/>
 
 I'm an undergrad at UCLA studying Cognitive Science with a specialization in Computing and a minor in Statistics. 
 
