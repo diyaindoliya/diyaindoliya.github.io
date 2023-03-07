@@ -4,7 +4,12 @@
 
 ### RIVET APP ~ User Experience and Interface Design
 
-![Rivet landing page](/assets/rivetlandingpage.png)
+<div class="image-grid">
+  <img src="assets/pusheditor.png" width = 200>
+  <img src="assets/fanspage.png" width = 200>
+  <img src="assets/linkpage.png" width = 200>
+  <img src="assets/contentlibrary.png" width = 200>
+</div>
     
 I'm working with Rivet, an MIT-based startup, to create an optimal platform for artists to monetize their content and build connections with their top fans. 
     
